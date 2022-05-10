@@ -25,7 +25,6 @@
     background-color: transparent;
     display:none;
     height: 100%;
-    overflow-y: auto;
 }
 @keyframes fadeIn {
     from { opacity:0}
@@ -174,9 +173,7 @@
 /* sign up */
 .login-signup-board {
     display: none;
-    height: 100%;
     background-color:transparent;
-    overflow-y: auto;
     padding-bottom: 50px;
 }
 .login-signup-board img {
@@ -261,7 +258,6 @@
     height :80%;
     padding: 50px;
     display:none;
-    overflow-y: auto;
 }
 #about-us-board h3 {
     color: #fff;
